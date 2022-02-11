@@ -1,4 +1,4 @@
-FROM nestybox/ubuntu-focal-systemd-docker
+FROM ghcr.io/dictcp/ubuntu-focal-systemd-docker
 
 ENV INSTALL_K3S_SKIP_ENABLE=true
 
